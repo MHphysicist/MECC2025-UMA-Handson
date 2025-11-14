@@ -2,6 +2,17 @@
 
 This repository contains hands-on materials for working with the UMA (Unified Machine learning potential for Atomistic simulations) model, part of the "Practical Introduction to AI in Materials Discovery" and "Hands-on Practical Training: Meta’s Universal Models for Atoms (UMA) Models for Corrosion Management" workshops at The 19th Middle East Corrosion Conference and Exhibition (MECC 2025). The conference is held from November 11-13, 2025, at Dhahran Expo, Kingdom of Saudi Arabia.
 
+## Author
+
+**Muhammad H. M. Ahmed**  
+Department of Materials Science & Engineering  
+King Fahd University of Petroleum and Minerals (KFUPM)
+
+**Contact:**  
+- Email: husseinphysicist@gmail.com | g202318650@kfupm.edu.sa
+- Phone: +966 53 358 4744
+- LinkedIn: [Muhammad H. M. Ahmed](https://www.linkedin.com/in/muhammad-h-m-ahmed/)
+
 ## Getting Started
 
 1. Clone this repository:
@@ -21,17 +32,6 @@ These materials focus on practical applications of UMA for materials discovery a
 - Screen potential materials for applications like CO₂ capture
 
 The exercises are designed to provide immediate practical experience with AI-driven methodologies that you can apply to your own materials research and development projects.
-
-## Author
-
-**Muhammad H. M. Ahmed**  
-Department of Materials Science & Engineering  
-King Fahd University of Petroleum and Minerals (KFUPM)
-
-**Contact:**  
-- Email: husseinphysicist@gmail.com | g202318650@kfupm.edu.sa
-- Phone: +966 53 358 4744
-- LinkedIn: [Muhammad H. M. Ahmed](https://www.linkedin.com/in/muhammad-h-m-ahmed/)
 
 ## Prerequisites
 
